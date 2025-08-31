@@ -9,3 +9,6 @@ Lo primero que debemos hacer es la masa, así que mezclaremos la harina de maíz
 Pasado ese tiempo hacemos seis bolas iguales de tamaño, las trabajamos con las manos y las aplanamos delicadamente.
 Una vez listas, las cocinamos en una sartén antiadherente, con aceite de oliva unos seis minutos por cada lado a una temperatura medio-baja.
 Cuando estén listas la arepas, hacemos un corte en uno de los lados y lo rellenamos al gusto con la mezcla de ingredientes: queso, pollo y aguacate machacado con un tenedor.
+
+
+NOTA. Espacio para agregar más recetas colombianas
