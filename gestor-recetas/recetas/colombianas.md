@@ -11,4 +11,10 @@ Una vez listas, las cocinamos en una sartén antiadherente, con aceite de oliva 
 Cuando estén listas la arepas, hacemos un corte en uno de los lados y lo rellenamos al gusto con la mezcla de ingredientes: queso, pollo y aguacate machacado con un tenedor.
 
 
-NOTA. Espacio para agregar más recetas colombianas
+NOTA. Espacio para agregar más recetas 
+
+
+
+
+
+Reseña: 10/10 
