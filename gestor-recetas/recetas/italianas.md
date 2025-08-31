@@ -20,3 +20,8 @@ En otra olla grande a fuego medio, cocina la panceta hasta que esté crujiente, 
 Agrega la pasta cocida, 1/4 de taza de agua de la pasta y la panceta y mezcla para combinar, agregando más agua de la pasta si es necesario para ayudar a aflojar y unir la salsa con la pasta.
 
  si lo desea se puede servir cubierto con mucho queso Pecorino y albahaca fresca.
+
+ NOTA: NÚMERO DE RACIONES: 4
+DIFICULTAD: Fácil
+TIEMPO TOTAL: 50 minutos
+CALORÍAS POR RACIÓN: 700
