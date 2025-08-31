@@ -12,3 +12,9 @@ Cuando estén listas la arepas, hacemos un corte en uno de los lados y lo rellen
 
 
 NOTA. Espacio para agregar más recetas colombianas
+
+
+
+
+
+PAIS DE LAS RECETAS PARA ESTA SECCIÓN: COLOMBIA
