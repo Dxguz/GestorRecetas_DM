@@ -9,3 +9,7 @@ Agregamos la leche y cuando esté bien caliente, vamos incorporando el queso, ra
 2. Adobo de chile verde
 
 Elaboración: Calienta una sartén grande a fuego medio. Sin utilizar aceite, añade los dientes de ajo (sin pelar) y cocínalos 5 minutos. Después, sin retirar los ajos, añade los chiles, y cocina ambos durante 10 minutos. Deja que se enfríen los ajos y pimientos hasta que puedas manejarlos, procede entonces pelar los ajos y despepitar, pelar y cortar los chiles. En una picadora o robot de cocina combina el ajo, los chiles, el cilantro, el perejil, el aceite de oliva y la sal. Pica la mezcla hasta lograr la consistencia de un pesto y pasa la salsa a un bote, para poder guardarla bien protegida en la nevera.
+
+
+
+NOTA. Espacio para agregar más recetas mexicanas
