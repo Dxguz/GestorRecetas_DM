@@ -1,3 +1,4 @@
+
 1. Ajiaco colombiano, sopa típica con guascas y papas
 
 Elaboración. Pelamos y cortamos en rodajas de un dedo de grosor las patatas. Cortamos las cebolletas por la mitad. Introducimos en la cazuela las patatas, las cebolleta, el pollo salpimentado, los ajos, el cilantro y cubrimos con el caldo de pollo. Dejamos cocinar a ebullición mínima, tapado durante 45 minutos. Sacar el pollo deshilacharlo y volver a ponerlos junto con el maíz y las guascas dejando cocinar 10 minutos más destapado. Cuando esté listo, acompañamos el ajiaco de aguacates pelados y laminados, alcaparras enteras y crema de leche a gusto del comensal.
@@ -13,10 +14,7 @@ Cuando estén listas la arepas, hacemos un corte en uno de los lados y lo rellen
 
 
 NOTA. Espacio para agregar más recetas colombianas
->>>>>>> c0e9c5ff5ea90a2b4519a5221c87a782c070f726
-
 
 
 
 PAIS DE LAS RECETAS PARA ESTA SECCIÓN: COLOMBIA
->>>>>>> c0e9c5ff5ea90a2b4519a5221c87a782c070f726
