@@ -103,8 +103,37 @@
 
 # 6. Conflicto intencional en el archivo recetas/colombianas.md y resolverlo correctamente. 
 
-* Integrate 1 (Danna Guzmán)
+* Integrante 1 (Danna Guzmán)
 * En la rama feature/recetas-colombianas se agrega texto en la línea 20 y se sube el cambio a github con su respectivo commit.
-![Captura 20]()
+![Captura 20](../img/20.png)
+
+* Integrante 2 (Maria Castro)
+*En la rama feature/recetas-colombianas se agrega texto también en la línea 20 y se sube el cambio a github con su respectivo commit, y así se evidencia el error ya que anteriormente se han hecho cambios en esta sección.
+![Captura 21](../img/21.png)
+
+* Para resolver el conflicto, se hace un git pull y luego se edita el archivo manualmente, eliminando los marcadores de conflicto y manteniendo la información que sea realmente necesaria.
+![Captura 22](../img/22.png)
+
+* También se puede solucionar el conflicto desde GitHub.
+![Captura 23](../img/23.png)
+
+* Una vez eliminada la información innecesaria, se genera un último commit con los cambios finales.
+![Captura 24](../img/24.png)
 
 
+# 7. Usar .gitignore para excluir algún archivo temporal
+
+* En el archivo .gitignore se debe anotar el nombre de los archivos que no deben subirse al repositorio, en este caso es server.log. Al aparecer sombreado levemente se indica que este archivo no estará en el repositorio.
+![Captura 25](../img/25.png)
+
+
+
+# 8. Crear un tag v1.0.0 sobre el commit final.  
+
+* Lista de commits hechos en el proyecto
+![Captura 26](../img/26.png)
+
+* Verificar que el tag aparece en el repositorio
+![Captura 27](../img/27.png)
+
+# Fin de la documentación
