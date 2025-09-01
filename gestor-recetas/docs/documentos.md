@@ -59,49 +59,45 @@
 ![Captura 9](../img/9.png)
 
 * Commit 1 en rama feature/recetas-mexicanas
-![Captura 9.1]()
+![Captura 9.1](../img/9.1.png)
 
 * Commit 2 en rama feature/recetas-mexicanas
-![Captura 10]()
+![Captura 10](../img/10.png)
 
 * Commit 3 en rama feature/recetas-mexicanas
-![Captura 11]()
+![Captura 11](../img/11.png)
 
 
 
 # 4.3. Rama feature/recetas-italianas (Integrante María Castro)
-![Captura 12]()
+![Captura 12](../img/12.png)
 
 * Primer commit en la rama feature/recetas-italiana
-![Captura 13]()
-![Captura 13.1]()
+![Captura 13](../img/13.png)
 
 * Segundo Commit en la rama feature/recetas-italiana
-![Captura 14]()
-![Captura 14.1]()
+![Captura 14](../img/14.png)
  
 * Tercer Commit en la rama feature/recetas-italiana
-![Captura 15]()
-![Captura 15.1]()
+![Captura 15](../img/15.png)
+![Captura 15.1](../img/15.1.png)
 
 
 # 5. Fusión mediante pull request (PR) en GitHub.
 
-
 # Crear pull request 
 
 * Seleccionar la opción Compare & pull request 
-![Captura 16]()
+![Captura 16](../img/16.png)
 
 * Dar un nombre para el pull request y en la opción de reviewers seleccionar al otro integrante para que este pueda aprobar los cambios generados y así fusionarlos en la rama main.
-![Captura 17]()
+![Captura 17](../img/17.png)
 
 * Registro de la solicitud de revisión
-![Captura 18]()
+![Captura 18](../img/18.png)
 
 # Aprobar pull request
-![Captura 19]()
-![Captura 20]()
+![Captura 19](../img/18.png)
 
 
 
@@ -109,6 +105,6 @@
 
 * Integrate 1 (Danna Guzmán)
 * En la rama feature/recetas-colombianas se agrega texto en la línea 20 y se sube el cambio a github con su respectivo commit.
-![Captura 21]()
+![Captura 20]()
 
 
